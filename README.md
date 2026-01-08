@@ -46,29 +46,37 @@ The same link is also stored in:
 ---
 
 ## Project Structure
-```
-docs/
- ├─ SE2 SRS.pdf
- ├─ Architecture diagram.pdf
- ├─ Class Diagram Final.drawio.pdf
- ├─ Consolidated Use Case.drawio.pdf
- └─ Individual Use Cases.drawio.pdf
+### Documentation
+- [`docs/`](docs/)
+  - [`SE2 SRS.pdf`](docs/SE2%20SRS.pdf)
+  - [`Architecture diagram.pdf`](docs/Architecture%20diagram.pdf)
+  - [`Class Diagram Final.drawio.pdf`](docs/Class%20Diagram%20Final.drawio.pdf)
+  - [`Consolidated Use Case.drawio.pdf`](docs/Consolidated%20Use%20Case.drawio.pdf)
+  - [`Individual Use Cases.drawio.pdf`](docs/Individual%20Use%20Cases.drawio.pdf)
 
-figma/
- ├─ educampus-figma-design.zip
- └─ figma-demo-link.txt
+### Design
+- [`figma/`](figma/)
+  - [`educampus-figma-design.zip`](figma/educampus-figma-design.zip)
+  - [`figma-demo-link.txt`](figma/figma-demo-link.txt)
 
-src/
- ├─ components/
- ├─ pages/
- ├─ styles/
- ├─ guidelines/
- ├─ App.tsx
- └─ main.tsx
+### Source Code
+- [`src/`](src/)
+  - [`components/`](src/components/)
+  - [`pages/`](src/pages/)
+  - [`styles/`](src/styles/)
+  - [`guidelines/`](src/guidelines/)
+  - [`App.tsx`](src/App.tsx)
+  - [`main.tsx`](src/main.tsx)
 
-public/
-README.md
-```
+### Configuration & Root Files
+- [`public/`](public/)
+- [`.gitignore`](.gitignore)
+- [`README.md`](README.md)
+- [`index.html`](index.html)
+- [`package.json`](package.json)
+- [`package-lock.json`](package-lock.json)
+- [`postcss.config.js`](postcss.config.js)
+- [`vite.config.ts`](vite.config.ts)
 
 ---
 
