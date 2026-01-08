@@ -9,6 +9,12 @@ real time, and manage collaborative academic activities.
 This project was developed as part of the **Software Engineering II (SE2)** course and focuses
 on **requirements engineering, system design, and user experience design**.
 
+## Technologies Used
+- **React** – component-based UI development
+- **TypeScript** – static typing and improved code maintainability
+- **Vite** – fast development server and build tool
+- **Tailwind CSS** – utility-first styling for rapid UI development
+
 ---
 
 ## Scope and Limitations
