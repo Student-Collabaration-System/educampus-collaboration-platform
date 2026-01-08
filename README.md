@@ -41,6 +41,7 @@ The same link is also stored in:
 
 ### Design Archive
 - [`figma/educampus-figma-design.zip`](figma/educampus-figma-design.zip) – exported Figma design files
+- [`figma/figma-demo-link.txt`](figma/figma-demo-link.txt) – link to the live interactive prototype
 
 ---
 
@@ -74,14 +75,20 @@ README.md
 ## Design & Documentation
 All required project artifacts are included in the [`docs/`](docs/) folder:
 
-- [Software Requirements Specification (SRS)](docs/SE2%20SRS.pdf)
-- [System Architecture Diagram](docs/Architecture%20diagram.pdf)
-- Use Case Diagrams  
-  - [Consolidated](docs/Consolidated%20Use%20Case.drawio.pdf)  
-  - [Individual](docs/Individual%20Use%20Cases.drawio.pdf)
-- [Class Diagram](docs/Class%20Diagram%20Final.drawio.pdf)
+- **Software Requirements Specification (SRS)**  
+  [`SE2 SRS.pdf`](docs/SE2%20SRS.pdf)
 
-These documents together represent the **complete and final system design**.
+- **System Architecture Diagram**  
+  [`Architecture diagram.pdf`](docs/Architecture%20diagram.pdf)
+
+- **Use Case Diagrams**  
+  - Consolidated: [`Consolidated Use Case.drawio.pdf`](docs/Consolidated%20Use%20Case.drawio.pdf)  
+  - Individual: [`Individual Use Cases.drawio.pdf`](docs/Individual%20Use%20Cases.drawio.pdf)
+
+- **Class Diagram**  
+  [`Class Diagram Final.drawio.pdf`](docs/Class%20Diagram%20Final.drawio.pdf)
+
+These documents together represent the **complete and final system design** for the EduCampus platform.
 
 ---
 
